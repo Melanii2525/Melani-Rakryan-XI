@@ -43,7 +43,7 @@ import Services from "./Services";
 import Projects from "./Projects";
 import Contact from "./Contact";
 import Footer from "./Footer";
-import Logo from "./logo";
+import Logo from "./Logo";
 import "./cv.css";
 
 const App = () => (
